@@ -30,8 +30,9 @@ const Rightbar = () => {
     >
       <Box position="static" width={300} height="auto">
         <Typography variant="h6" fontWeight="100">
-          Online Friends
+          Online Friends and their relatives
         </Typography>
+        <h3>Online people</h3>
         <AvatarGroup max={4}>
           <Avatar
             alt="Remy Sharp"
